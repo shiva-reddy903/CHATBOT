@@ -1,4 +1,4 @@
-# 🤖 RAG AI Chatbot
+# AI Chatbot
 
 A Retrieval-Augmented Generation (RAG) AI Chatbot built using Python, LangChain, Ollama, ChromaDB, HuggingFace Embeddings, and Streamlit. The chatbot allows users to upload PDF documents and ask questions based on their content.
 
